@@ -50,13 +50,13 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=..\..\..\..\..\..\Courses\PCB\Lesson 2\Schematic Templates\[01] - COVER PAGE.SchDoc
+DocumentPath=Sheet1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
 AnnotateSuffix=
 AnnotateScope=All
-AnnotateOrder=-1
+AnnotateOrder=0
 DoLibraryUpdate=1
 DoDatabaseUpdate=1
 ClassGenCCAutoEnabled=1
@@ -64,10 +64,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=TOLVSWKJ
+DocumentUniqueId=VCZFJEUU
 
 [Document2]
-DocumentPath=..\..\..\..\..\..\Courses\PCB\Lesson 2\Schematic Templates\[02] - BLOCK DIAGRAM.SchDoc
+DocumentPath=PCB1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -81,10 +81,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=LIHYCSMC
+DocumentUniqueId=AWFPVHWA
 
 [Document3]
-DocumentPath=..\..\..\..\..\..\Courses\PCB\Lesson 2\Schematic Templates\[XX] - DOC REVISION HISTORY.SchDoc
+DocumentPath=..\..\..\..\..\..\..\AltiumLib\[MAIN]_LIB_PACKAGE\TUNA_Altium_Lib.LibPkg
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -98,10 +98,10 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=PUBHOOUP
+DocumentUniqueId=
 
 [Document4]
-DocumentPath=..\..\..\..\..\..\Courses\PCB\Lesson 2\Schematic Templates\PROJECT_NAME Project.SchDoc
+DocumentPath=..\..\..\..\..\..\..\AltiumLib\[MAIN]_LIB_PACKAGE\Project Outputs for TUAN_Altium_Lib\TUAN_Altium_Lib.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -115,32 +115,7 @@ ClassGenCCAutoRoomEnabled=0
 ClassGenNCAutoScope=None
 DItemRevisionGUID=
 GenerateClassCluster=0
-DocumentUniqueId=WISEASJR
-
-[Document5]
-DocumentPath=..\..\..\..\..\..\Courses\PCB\Lesson 2\Schematic Templates\PROJECT_NAME_PCB_V1I1.PcbDoc
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=0
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=THXVGACJ
-
-[Parameter1]
-Name=Project
-Value=Tuna Hub
-
-[Parameter2]
-Name=Company
-Value=Tuna
+DocumentUniqueId=
 
 [Configuration1]
 Name=Sources
